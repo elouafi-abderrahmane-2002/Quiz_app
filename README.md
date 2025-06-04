@@ -56,5 +56,3 @@ QuizMaster is an Android application that allows users to test their knowledge t
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/quizmaster-app.git
-![img.png](img.png)
-![img_1.png](img_1.png)
