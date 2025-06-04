@@ -22,7 +22,6 @@ Quiz_App is an Android application that allows users to test their knowledge thr
 | **Java** | Primary language used for Android development |
 | **Android Studio** | IDE for Android application development |
 | **Firebase Authentication** | User registration and login |
-| **Firebase Realtime Database** | Stores quiz questions and answers |
 | **XML** | Layout design for the UI |
 | **Intents** | Navigation between activities |
 
