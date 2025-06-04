@@ -1,6 +1,6 @@
-# 📱 QuizMaster - Android Quiz App
+# 📱 Quiz_App - Android Quiz App
 
-QuizMaster is an Android application that allows users to test their knowledge through multiple-choice quizzes on various themes like Programming, Music, and Gym. Users can register and log in via Firebase Authentication, select a topic, answer questions, and view their final score. The app includes a global timer to complete the quiz within a limited duration.
+Quiz_App is an Android application that allows users to test their knowledge through multiple-choice quizzes on various themes like Programming, Music, and Gym. Users can register and log in via Firebase Authentication, select a topic, answer questions, and view their final score. The app includes a global timer to complete the quiz within a limited duration.
 
 ---
 
