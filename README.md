@@ -55,4 +55,4 @@ Quiz_App is an Android application that allows users to test their knowledge thr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/quizmaster-app.git
+   git clone https://github.com/elouafi-abderrahmane-2002/Quiz_app
